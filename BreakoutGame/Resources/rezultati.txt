@@ -1,0 +1,3 @@
+160,Maja
+101,Nada
+100,Svemirka

@@ -1,0 +1,11 @@
+C:\Users\juricaradenic\source\repos\projekt_Predaja\BreakoutGame\bin\Debug\BreakoutGame.exe.config
+C:\Users\juricaradenic\source\repos\projekt_Predaja\BreakoutGame\bin\Debug\BreakoutGame.exe
+C:\Users\juricaradenic\source\repos\projekt_Predaja\BreakoutGame\bin\Debug\BreakoutGame.pdb
+C:\Users\juricaradenic\source\repos\projekt_Predaja\BreakoutGame\obj\Debug\Breakout.csproj.AssemblyReference.cache
+C:\Users\juricaradenic\source\repos\projekt_Predaja\BreakoutGame\obj\Debug\BreakoutGame.Properties.Resources.resources
+C:\Users\juricaradenic\source\repos\projekt_Predaja\BreakoutGame\obj\Debug\Breakout.csproj.GenerateResource.cache
+C:\Users\juricaradenic\source\repos\projekt_Predaja\BreakoutGame\obj\Debug\Breakout.csproj.CoreCompileInputs.cache
+C:\Users\juricaradenic\source\repos\projekt_Predaja\BreakoutGame\obj\Debug\BreakoutGame.exe
+C:\Users\juricaradenic\source\repos\projekt_Predaja\BreakoutGame\obj\Debug\BreakoutGame.pdb
+C:\Users\juricaradenic\source\repos\projekt_Predaja\BreakoutGame\obj\Debug\Breakout.Form1.resources
+C:\Users\juricaradenic\source\repos\projekt_Predaja\BreakoutGame\obj\Debug\Breakout.Rezultat.resources
